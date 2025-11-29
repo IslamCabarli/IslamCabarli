@@ -5,8 +5,7 @@
 ### 💻 Full Stack Developer | 🚀 Technology Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/IslamCabarli?label=Followers&style=social)](https://github.com/IslamCabarli)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-cabarlı)
 
 </div>
 
@@ -18,14 +17,14 @@
 const developer = {
     name: "İslam Cabbarlı",
     location: "Bakı, Azərbaycan 🇦🇿",
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
+    code: ["JavaScript", "Python", "Php", "TypeScript"],
     technologies: {
-        frontEnd: ["React", "Vue", "Next.js", "Tailwind CSS"],
+        frontEnd: ["React", "Angular", "Next.js", "Tailwind CSS", "React Native"],
         backEnd: ["Node.js", "Express", "Django", "Spring Boot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        tools: ["Docker", "Git", "AWS", "Linux"]
+        tools: ["Git", "AWS", "Linux"]
     },
-    currentFocus: "AI və Machine Learning öyrənirəm",
+    currentFocus: "Backend proqramlasdirma oyrenirem",
     hobbies: ["Coding", "Tech Blog", "Open Source", "Chess ♟️"]
 };
 ```
