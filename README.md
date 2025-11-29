@@ -1,10 +1,10 @@
 <div align="center">
   
-# 👋 Salam, mən Islam Cabarli
+# 👋 Salam, mən İslam Cabarlı
 
 ### 💻 Full Stack Developer | 🚀 Technology Enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/IslamCabarli?label=Followers&style=social)](https://github.com/IslamCabarli)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
@@ -16,12 +16,12 @@
 
 ```javascript
 const developer = {
-    name: "Islam Cabarli",
+    name: "İslam Cabbarlı",
     location: "Bakı, Azərbaycan 🇦🇿",
-    code: ["JavaScript", "Php", "TypeScript", "Laravel"],
+    code: ["JavaScript", "Python", "Java", "TypeScript"],
     technologies: {
-        frontEnd: ["React", "Angular", "Tailwind CSS"],
-        backEnd: ["Php", "C#", "Django"],
+        frontEnd: ["React", "Vue", "Next.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express", "Django", "Spring Boot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         tools: ["Docker", "Git", "AWS", "Linux"]
     },
@@ -66,11 +66,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IslamCabarli&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -80,7 +80,7 @@ const developer = {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=IslamCabarli&theme=radical&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -88,7 +88,7 @@ const developer = {
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IslamCabarli&theme=react-dark&hide_border=true&area=true)](https://github.com/IslamCabarli)
 
 ---
 
@@ -96,8 +96,8 @@ const developer = {
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/yourusername/project2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IslamCabarli&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IslamCabarli/project1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IslamCabarli&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IslamCabarli/project2)
 
 </div>
 
