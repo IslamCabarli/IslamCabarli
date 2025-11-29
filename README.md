@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=İslam%20Cabbarlı&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Angular+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;Learning+PHP+%26+C%23+%F0%9F%93%9A;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -42,16 +42,16 @@ class Developer {
     location: string = "Bakı, Azərbaycan 🇦🇿";
     
     skills = {
-        languages: ["JavaScript", "TypeScript", "Python", "Java"],
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI"],
+        languages: ["JavaScript", "TypeScript", "Python", "PHP", "C#"],
+        frontend: ["React", "Angular", "Next.js", "Vue.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Django", "FastAPI", ".NET"],
         database: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
         devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
         tools: ["Git", "VS Code", "Postman", "Figma"]
     };
     
-    currentlyLearning = ["AI/ML", "Web3", "Cloud Architecture"];
-    askMeAbout = ["Web Dev", "API Design", "System Design"];
+    currentlyLearning = ["PHP 💪", "C# 🚀", "Advanced .NET"];
+    askMeAbout = ["Web Dev", "Angular", "API Design", "System Design"];
     
     funFact = "Kod yazmaq mənim üçün incəsənətdir! 🎨";
 }
@@ -66,10 +66,10 @@ class Developer {
 <div align="center">
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,bootstrap,redux,materialui&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,vue,tailwind,sass,bootstrap,redux&perline=6" />
 
 ### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring,graphql&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,cs,dotnet&perline=8" />
 
 ### 🗄️ Database & Cloud
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,aws,gcp&perline=8" />
@@ -134,12 +134,12 @@ class Developer {
 <div align="center">
 
 ```diff
-+ 🔭 AI və Machine Learning layihələri üzərində işləyirəm
-+ 🌱 Cloud Architecture və DevOps öyrənirəm
++ 🔭 Full Stack Web Development layihələri üzərində işləyirəm
++ 🌱 PHP və C# öyrənirəm və təkmilləşdirirəm
 + 👯 Open Source layihələrdə iştirak edirəm
-+ 💬 JavaScript, React, Node.js haqqında soruşun
++ 💬 JavaScript, React, Angular, Node.js haqqında soruşun
 + 📫 Əlaqə: islamcabarli@example.com
-+ ⚡ Fun fact: Debugging - müasir detektiv işidir! 🕵️
++ ⚡ Fun fact: .NET və PHP ilə backend qurmaq əyləncəlidir! 🚀
 ```
 
 </div>
