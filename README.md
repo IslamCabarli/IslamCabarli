@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Salam, mən [Sizin Adınız]
+# 👋 Salam, mən Islam Cabarli
 
 ### 💻 Full Stack Developer | 🚀 Technology Enthusiast
 
@@ -16,12 +16,12 @@
 
 ```javascript
 const developer = {
-    name: "Sizin Adınız",
+    name: "Islam Cabarli",
     location: "Bakı, Azərbaycan 🇦🇿",
-    code: ["JavaScript", "Python", "Java", "TypeScript"],
+    code: ["JavaScript", "Php", "TypeScript", "Laravel"],
     technologies: {
-        frontEnd: ["React", "Vue", "Next.js", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "Django", "Spring Boot"],
+        frontEnd: ["React", "Angular", "Tailwind CSS"],
+        backEnd: ["Php", "C#", "Django"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         tools: ["Docker", "Git", "AWS", "Linux"]
     },
