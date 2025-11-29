@@ -23,13 +23,6 @@
 
 ---
 
-<!-- 3D Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IslamCabarli/IslamCabarli/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IslamCabarli/IslamCabarli/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IslamCabarli/IslamCabarli/output/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## 🎯 Haqqımda
@@ -207,10 +200,6 @@ class Developer {
 ### 💭 Ən Sevdiyim Deyim
 
 <i>"Kod yazmaq problemi həll etməkdir, proqramlaşdırma isə düşünmək sənətidir."</i>
-
-### 🐍 Watch my contribution graph get eaten by the snake!
-
-![snake gif](https://github.com/IslamCabarli/IslamCabarli/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
