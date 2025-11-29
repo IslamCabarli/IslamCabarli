@@ -1,144 +1,74 @@
+<!-- Profil Banner Animasiya -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Islam+Cabarli;Full-Stack+Developer;PHP+%7C+React+%7C+JavaScript+Engineer;Building+powerful+and+modern+web+projects" alt="Typing SVG" />
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
 <div align="center">
-  
-# 👋 Salam, mən İslam Cabarlı
 
-### 💻 Full Stack Developer | 🚀 Technology Enthusiast
-
-[![GitHub followers](https://img.shields.io/github/followers/IslamCabarli?label=Followers&style=social)](https://github.com/IslamCabarli)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-cabarlı)
+💼 Full-Stack developer — PHP və React əsaslı layihələr hazırlayıram  
+🧠 Hər gün yeni texnologiyalar öyrənməyi sevirəm  
+🔥 LifeCoachMaster, Farmer Platform və E-Commerce kimi real layihələr hazırlamışam  
+🎨 UI/UX, performans və modern arxitektura üzərində fokuslanıram  
 
 </div>
 
 ---
 
-## 🚀 Haqqımda
+<h2 align="center">🛠️ Tech Stack</h2>
 
-```javascript
-const developer = {
-    name: "İslam Cabbarlı",
-    location: "Bakı, Azərbaycan 🇦🇿",
-    code: ["JavaScript", "Python", "Php", "TypeScript"],
-    technologies: {
-        frontEnd: ["React", "Angular", "Next.js", "Tailwind CSS", "React Native"],
-        backEnd: ["Node.js", "Express", "Django", "Spring Boot"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        tools: ["Git", "AWS", "Linux"]
-    },
-    currentFocus: "Backend proqramlasdirma oyrenirem",
-    hobbies: ["Coding", "Tech Blog", "Open Source", "Chess ♟️"]
-};
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,mysql,tailwind,git,github,figma,vscode" />
+</p>
 
 ---
 
-## 🛠️ Texnologiyalar və Alətlər
+<h2 align="center">📂 Featured Projects</h2>
 
-<div align="center">
+### 🌟 **LifeCoachMaster**
+Admin paneli olan professional life-coach idarəetmə platforması  
+**Stack:** PHP, MySQL, Admin Dashboard, Auth System
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🌾 **Farmer Platform**
+React ilə hazırlanan marketplace + fermer idarəetmə sistemi  
+**Stack:** React, Tailwind, Fake API, JWT
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+### 🛒 **E-Commerce Adidas UI**
+Adidas tərzində full responsive e-commerce dizaynı  
+**Stack:** React, Tailwind, LocalStorage Basket
 
 ---
 
-## 📊 GitHub Statistikası
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IslamCabarli&theme=radical&hide_border=true&background=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophy
+<h2 align="center">🔥 Contribution Streak</h2>
 
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=IslamCabarli&theme=radical&no-frame=true&no-bg=true&column=7)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IslamCabarli&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+<h2 align="center">🤝 Connect With Me</h2>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IslamCabarli&theme=react-dark&hide_border=true&area=true)](https://github.com/IslamCabarli)
-
----
-
-## 💼 Layihələrim
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IslamCabarli&repo=project1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IslamCabarli/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IslamCabarli&repo=project2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/IslamCabarli/project2)
-
-</div>
+<p align="center">
+  <a href="mailto:islamcabarli@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+  <a href="https://github.com/IslamCabarli"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+</p>
 
 ---
 
-## 🎯 Hazırda Üzərində İşlədiyim
-
-- 🔭 **AI və Machine Learning** layihələri
-- 🌱 **Cloud Computing** və **DevOps** öyrənirəm
-- 👯 **Open Source** layihələrdə iştirak edirəm
-- 💬 **JavaScript, React, Node.js** haqqında soruşun
-- ⚡ **Fun fact:** Kod yazmaq mənim üçün sənət kimidir! 🎨
-
----
-
-## 📫 Əlaqə
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
-**⭐️ From [yourusername](https://github.com/yourusername)**
-
-</div>
+<p align="center">
+  ✨ *Thank you for visiting my profile — follow for more real projects and clean code!* ✨
+</p>
