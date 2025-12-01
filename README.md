@@ -36,10 +36,9 @@ class Developer {
     
     skills = {
         languages: ["JavaScript", "TypeScript", "Python", "PHP", "C#"],
-        frontend: ["React", "Angular", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "FastAPI", ".NET"],
+        frontend: ["React", "Angular", "Tailwind CSS"],
+        backend: ["Node.js", "Django", "Php", ".NET"],
         database: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
         tools: ["Git", "VS Code", "Postman", "Figma"]
     };
     
