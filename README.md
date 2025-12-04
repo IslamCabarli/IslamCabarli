@@ -43,7 +43,7 @@ class Developer {
     };
     
     currentlyLearning = ["PHP 💪", "C# 🚀", "Advanced .NET"];
-    askMeAbout = ["Web Dev", "Angular", "API Design", "System Design"];
+    askMeAbout = ["Web Dev", "Angular", "API Design"];
     
     funFact = "Kod yazmaq mənim üçün incəsənətdir! 🎨";
 }
