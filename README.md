@@ -82,8 +82,7 @@ I enjoy working with modern frontend frameworks and designing reliable backend s
 ## 📫 Contact
 
 - **Email:** islamcabarli7gmail.com  
-- **LinkedIn:** https://linkedin.com/in/islamcabarli  
-- **Portfolio:** https://islamcabarli.com
+- **LinkedIn:** https://www.linkedin.com/in/islam-cabarl%C4%B1/ 
 
 ---
 
