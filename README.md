@@ -28,7 +28,6 @@ I enjoy working with modern frontend frameworks and designing reliable backend s
 ### Backend
 - Node.js (REST API, JWT)
 - Laravel (PHP)
-- .NET (learning)
 
 ### Database
 - PostgreSQL
