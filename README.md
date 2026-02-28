@@ -1,94 +1,53 @@
-<div align="center">
+# Hi, I’m Islam 👋  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Islam%20Cabarli&fontSize=70&fontAlignY=35&fontColor=fff" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFBF&lines=Junior+Full-Stack+Developer;Angular+%7C+React+%7C+Laravel;Building+Scalable+Web+Applications" />
+</p>
 
-<h3>Junior Full-Stack Developer</h3>
-<p>Angular • React • Laravel • REST API</p>
+I’m a **Junior Full-Stack Developer** from **Baku, Azerbaijan 🇦🇿**  
+I specialize in building modern web applications with clean architecture and well-structured REST APIs.
 
-</div>
-
----
-
-## 👋 About Me
-
-I am a **Junior Full-Stack Developer** from **Baku, Azerbaijan 🇦🇿**.  
-I focus on building **clean, scalable web applications** with strong backend logic and well-structured APIs.
-
-I enjoy working with modern frontend frameworks and designing reliable backend systems.
+I enjoy working on both frontend and backend, turning ideas into scalable and maintainable systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
-- Angular, React  
-- JavaScript, TypeScript  
-- Tailwind CSS
-
-### Backend
-- Node.js (REST API, JWT)
-- Laravel (PHP)
-
-### Database
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### Tools
-- Git & GitHub
-- Postman
-- Swagger
-- VS Code
+💻 **Languages:** JavaScript, TypeScript, PHP  
+⚛️ **Frontend:** Angular, React, Tailwind CSS  
+⚙️ **Backend:** Node.js (REST API, JWT), Laravel  
+🗄 **Database:** PostgreSQL, MongoDB, MySQL  
+🧩 **Tools & Others:** Git, REST APIs, Postman, Swagger, VS Code  
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Projects
 
 ### 🔹 E-commerce REST API
-**Tech:** Php, JWT, PostgreSQL  
-- Authentication & authorization
-- Role-based access
-- Clean REST architecture
+Authentication & authorization system with role-based access using JWT and PostgreSQL.
 
 ### 🔹 Admin Dashboard
-**Tech:** Angular, Tailwind  
-- Responsive admin panel
-- API integration
-- Modular component structure
+Responsive Angular admin panel with modular structure and full API integration.
 
 ### 🔹 Website Calculator
-**Tech:** JavaScript, HTML, Tailwind  
-- Dynamic price calculation
-- Category-based features
-- Clean UI & UX
+Dynamic pricing system with categorized features and clean UI/UX.
 
-> 📌 More projects are available in my repositories.
+More projects are available in my repositories 🚀
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=00bfbf" />
-
-</div>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=00bfbf" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- **Email:** islamcabarli7gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/islam-cabarl%C4%B1/ 
+🔗 LinkedIn: https://www.linkedin.com/in/islam-cabarl%C4%B1/  
+📧 Email: islamcabarli7@gmail.com  
 
----
-
-<div align="center">
-
-⭐️ Thanks for visiting my profile  
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
+Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
