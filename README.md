@@ -36,10 +36,7 @@ More projects are available in my repositories 🚀
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&cache_seconds=1800&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&hide_border=true&bg_color=0d1117&title_color=00bfbf&text_color=00bfbf&cache_seconds=1800" />
-</p>
+
 
 <p align="left">
   <img width="98%" src="https://streak-stats.demolab.com?user=IslamCabarli&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00bfbf&currStreakNum=00bfbf" />
