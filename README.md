@@ -33,15 +33,15 @@ More projects are available in my repositories 🚀
 
 ## 📊 GitHub Stats
 
-
-
 <p align="left">
-  <img width="98%" src="https://streak-stats.demolab.com?user=IslamCabarli&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00bfbf&hide=currentStreak"/>
+  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&theme=radical&hide_border=true"/>
 </p>
+
+---
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/islam-cabarl%C4%B1/  
+🔗 LinkedIn: [Islam Cabarlı](https://www.linkedin.com/in/islam-cabarl%C4%B1/)  
 📧 Email: islamcabarli7@gmail.com  
 
 Feel free to reach out — I love connecting with other developers and sharing ideas! 🚀
