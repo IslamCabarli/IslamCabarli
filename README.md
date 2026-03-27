@@ -36,9 +36,8 @@ More projects are available in my repositories 🚀
 
 
 <p align="left">
-  <img width="98%" src="https://streak-stats.demolab.com?user=IslamCabarli&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00bfbf&currStreakNum=00bfbf" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=IslamCabarli&hide_border=true&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=c9d1d9&dates=c9d1d9&sideNums=00bfbf />
 </p>
----
 
 ## 📫 Connect With Me
 
