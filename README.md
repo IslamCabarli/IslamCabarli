@@ -47,15 +47,6 @@ I'm a **Junior Full-Stack Developer** who enjoys building modern web application
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IslamCabarli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamCabarli&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="left">
