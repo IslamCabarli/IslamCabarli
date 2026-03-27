@@ -27,9 +27,6 @@ Authentication & authorization system with role-based access using JWT and Postg
 ### 🔹 Admin Dashboard
 Responsive Angular admin panel with modular structure and full API integration.
 
-### 🔹 Website Calculator
-Dynamic pricing system with categorized features and clean UI/UX.
-
 More projects are available in my repositories 🚀
 
 ---
