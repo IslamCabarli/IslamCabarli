@@ -54,6 +54,7 @@ I'm a **Junior Full-Stack Developer** who enjoys building modern web application
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam_Cabarlı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-cabarl%C4%B1/)
 [![Email](https://img.shields.io/badge/Email-islamcabarli7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamcabarli7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-IslamCabarli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IslamCabarli)
+![Profile Views](https://komarev.com/ghpvc/?username=IslamCabarli&label=👀%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
